@@ -19,4 +19,8 @@ cargo run
 
 # Format rust code
 cargo fmt
+
+# Watch for rust
+cargo install cargo-watch
+cargo watch -x run
 ```
