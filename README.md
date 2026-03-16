@@ -1,6 +1,11 @@
 # Course Learn Rust by CodeShow
+![](https://img.shields.io/badge/status-completed-brightgreen)
 
-COURSE about Rust by Bruno Rocha from CodeShow.
+<p align="center">
+<img src=".github/logo.png">
+</p>
+
+COURSE about Rust by Bruno Rocha from [CodeShow](https://youtube.com/playlist?list=PLjSf4DcGBdiGCNOrCoFgtj0KrUq1MRUME&si=wDuL02FaaRXZ-kfU).
 
 ## Commands
 
